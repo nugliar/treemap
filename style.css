@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 auto;
+  margin: auto;
   text-align: center;
   font-weight: 400;
   padding: 12px 0;
@@ -38,6 +38,9 @@ svg {
   position: relative;
   margin: 0 auto;
   padding: 0;
+}
+
+.inner-container {
   background-color: #999;
 }
 
